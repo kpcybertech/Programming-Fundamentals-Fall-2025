@@ -1,0 +1,7 @@
+C:\Users\krist\OneDrive\Desktop\Programming Fundamentals\C#\Week2FirstProgram\Week2FirstProgram\bin\Debug\Week2FirstProgram.exe.config
+C:\Users\krist\OneDrive\Desktop\Programming Fundamentals\C#\Week2FirstProgram\Week2FirstProgram\bin\Debug\Week2FirstProgram.exe
+C:\Users\krist\OneDrive\Desktop\Programming Fundamentals\C#\Week2FirstProgram\Week2FirstProgram\bin\Debug\Week2FirstProgram.pdb
+C:\Users\krist\OneDrive\Desktop\Programming Fundamentals\C#\Week2FirstProgram\Week2FirstProgram\obj\Debug\Week2FirstProgram.csproj.AssemblyReference.cache
+C:\Users\krist\OneDrive\Desktop\Programming Fundamentals\C#\Week2FirstProgram\Week2FirstProgram\obj\Debug\Week2FirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\krist\OneDrive\Desktop\Programming Fundamentals\C#\Week2FirstProgram\Week2FirstProgram\obj\Debug\Week2FirstProgram.exe
+C:\Users\krist\OneDrive\Desktop\Programming Fundamentals\C#\Week2FirstProgram\Week2FirstProgram\obj\Debug\Week2FirstProgram.pdb
