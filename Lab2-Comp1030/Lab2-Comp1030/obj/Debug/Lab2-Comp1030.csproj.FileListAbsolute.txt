@@ -1,0 +1,7 @@
+C:\Users\krist\OneDrive\Desktop\Programming Fundamentals\C#\Lab2-Comp1030\Lab2-Comp1030\bin\Debug\Lab2-Comp1030.exe.config
+C:\Users\krist\OneDrive\Desktop\Programming Fundamentals\C#\Lab2-Comp1030\Lab2-Comp1030\bin\Debug\Lab2-Comp1030.exe
+C:\Users\krist\OneDrive\Desktop\Programming Fundamentals\C#\Lab2-Comp1030\Lab2-Comp1030\bin\Debug\Lab2-Comp1030.pdb
+C:\Users\krist\OneDrive\Desktop\Programming Fundamentals\C#\Lab2-Comp1030\Lab2-Comp1030\obj\Debug\Lab2-Comp1030.csproj.AssemblyReference.cache
+C:\Users\krist\OneDrive\Desktop\Programming Fundamentals\C#\Lab2-Comp1030\Lab2-Comp1030\obj\Debug\Lab2-Comp1030.csproj.CoreCompileInputs.cache
+C:\Users\krist\OneDrive\Desktop\Programming Fundamentals\C#\Lab2-Comp1030\Lab2-Comp1030\obj\Debug\Lab2-Comp1030.exe
+C:\Users\krist\OneDrive\Desktop\Programming Fundamentals\C#\Lab2-Comp1030\Lab2-Comp1030\obj\Debug\Lab2-Comp1030.pdb
